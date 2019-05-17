@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+print("zy")
 
 # Compiled Object files
 *.slo
